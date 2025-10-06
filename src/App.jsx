@@ -9,8 +9,6 @@ import DisplayAdditionOfNumbers from './miniApps/DisplayAdditionOfNumbers.jsx'
 
 
 function App() { 
-  
-
   return ( 
     <>    
     <div  className="container" >
@@ -19,8 +17,6 @@ function App() {
       <Counter />
       <CounterUsingStore />
     </div>
-
-
     </>
   )  
 } 
